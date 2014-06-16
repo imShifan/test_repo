@@ -2,3 +2,5 @@ this is testing of git commit
 removed by git..
 
 now let's open notepad++ (wl1)
+
+1234
